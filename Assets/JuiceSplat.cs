@@ -7,6 +7,8 @@ public class JuiceSplat : MonoBehaviour
     public static JuiceSplat Instance { get; private set; }
 
     public GameObject particles;
+    public AudioSource audioSource;
+    public float volume=0.5f;
 
 
     private void Awake()
@@ -28,7 +30,7 @@ public class JuiceSplat : MonoBehaviour
 
     public void pop(Vector3 location, Color color) 
     {
-        
+        audioSource.Play();
         GameObject particle = Instantiate(particles, location, Quaternion.identity);
         particle.GetComponent<ParticleSystem>().startColor = color;
     }
