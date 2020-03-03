@@ -734,7 +734,6 @@ MonoBehaviour:
   particles: {fileID: 7172504796127385173, guid: 9f265b265daa93846a0011383c124c13,
     type: 3}
   audioSource: {fileID: 5832695345568689295}
-  clip: {fileID: 8300000, guid: d9b0dca9f5c338f4a82322b0071c29f1, type: 3}
   volume: 0.5
 --- !u!82 &5832695345568689295
 AudioSource:
