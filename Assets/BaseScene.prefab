@@ -352,7 +352,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_TargetDisplay: 0
 --- !u!114 &1301784315816593126
 MonoBehaviour:
@@ -734,7 +734,6 @@ MonoBehaviour:
   particles: {fileID: 7172504796127385173, guid: 9f265b265daa93846a0011383c124c13,
     type: 3}
   audioSource: {fileID: 5832695345568689295}
-  clip: {fileID: 8300000, guid: d9b0dca9f5c338f4a82322b0071c29f1, type: 3}
   volume: 0.5
 --- !u!82 &5832695345568689295
 AudioSource:
