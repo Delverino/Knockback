@@ -529,6 +529,26 @@ PrefabInstance:
       propertyPath: m_textInfo.pageCount
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5278825336103625924, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: bullets
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.data[0]
+      value: They're clearly plotting some occult ritual
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.data[1]
+      value: No one looks that innocent unless they're hiding something
+      objectReference: {fileID: 0}
     - target: {fileID: 7361479930125517514, guid: f609362a1879b5e4380df844fad3ce84,
         type: 3}
       propertyPath: m_LocalPosition.x

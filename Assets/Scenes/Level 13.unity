@@ -177,12 +177,12 @@ PrefabInstance:
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.61
+      value: -2.45
       objectReference: {fileID: 0}
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.27
+      value: 0.72
       objectReference: {fileID: 0}
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}
@@ -266,12 +266,12 @@ PrefabInstance:
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.91
+      value: -4.34
       objectReference: {fileID: 0}
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.26
+      value: -2.4
       objectReference: {fileID: 0}
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}
@@ -365,7 +365,27 @@ PrefabInstance:
     - target: {fileID: 3046629060545210730, guid: f609362a1879b5e4380df844fad3ce84,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.83
+      value: -1.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 3046629060545210730, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 5278825336103625924, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: bullets
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.data[0]
+      value: I feel threatened
       objectReference: {fileID: 0}
     - target: {fileID: 7361479930125517514, guid: f609362a1879b5e4380df844fad3ce84,
         type: 3}
@@ -459,12 +479,12 @@ PrefabInstance:
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.93
+      value: -5.24
       objectReference: {fileID: 0}
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.95459986
+      value: -0.8
       objectReference: {fileID: 0}
     - target: {fileID: 7688929393411064869, guid: 70b39799abd137c47bf2fbb6bfa3be50,
         type: 3}

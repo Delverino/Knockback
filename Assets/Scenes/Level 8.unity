@@ -96,6 +96,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -374,6 +375,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_textInfo.pageCount
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5278825336103625924, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: bullets
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.data[0]
+      value: The slimes are some kind of hive mind
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.data[1]
+      value: Or the animator just didn't bother to change the default animation
       objectReference: {fileID: 0}
     - target: {fileID: 7361479930125517514, guid: f609362a1879b5e4380df844fad3ce84,
         type: 3}

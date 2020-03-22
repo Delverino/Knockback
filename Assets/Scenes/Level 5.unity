@@ -96,6 +96,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -294,6 +295,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_textInfo.pageCount
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6186368705060242070, guid: f609362a1879b5e4380df844fad3ce84,
+        type: 3}
+      propertyPath: sentences.Array.data[0]
+      value: I'm a warlock for **** sake, why did I get stuck on slime duty?
       objectReference: {fileID: 0}
     - target: {fileID: 6480731995988448827, guid: f609362a1879b5e4380df844fad3ce84,
         type: 3}
